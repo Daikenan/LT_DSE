@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8da14a5-bad6-4dc1-8459-332cabca3248" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mdcheckmask$atom_test.coverage" NAME="atom_test Coverage Results" MODIFIED="1558926405198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$demo.coverage" NAME="demo Coverage Results" MODIFIED="1557458140780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metric_net" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$lt2019test_v3_2.coverage" NAME="lt2019test_v3_2 Coverage Results" MODIFIED="1557310186396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$rgbt.coverage" NAME="rgbt Coverage Results" MODIFIED="1558518317365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$lt2019test.coverage" NAME="lt2019test Coverage Results" MODIFIED="1557044269837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LT_DSE$tracker_vot.coverage" NAME="tracker_vot Coverage Results" MODIFIED="1576035494685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$lt2019test_v5.coverage" NAME="lt2019test_v5 Coverage Results" MODIFIED="1557322296794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$lt2019test_v2.coverage" NAME="lt2019test_v2 Coverage Results" MODIFIED="1557116587001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$demo__2_.coverage" NAME="demo (2) Coverage Results" MODIFIED="1557480341507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SiamMask" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$lt2019finalmask3.coverage" NAME="lt2019finalmask3 Coverage Results" MODIFIED="1558928579941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$demo_smask.coverage" NAME="demo_smask Coverage Results" MODIFIED="1557489683412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheck$lt2019test_v4.coverage" NAME="lt2019test_v4 Coverage Results" MODIFIED="1558017640621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$lt2019test_v4_2.coverage" NAME="lt2019test_v4_2 Coverage Results" MODIFIED="1558316170032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$lt2019finalmask3_2.coverage" NAME="lt2019finalmask3_2 Coverage Results" MODIFIED="1560075791291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$final2.coverage" NAME="final2 Coverage Results" MODIFIED="1559962027470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$test_accuracy.coverage" NAME="test_accuracy Coverage Results" MODIFIED="1557456774282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metric_net" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$show_groundtruth.coverage" NAME="show_groundtruth Coverage Results" MODIFIED="1558516501200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$analysis_RV.coverage" NAME="analysis_RV Coverage Results" MODIFIED="1559984024415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$lt2019test_v8.coverage" NAME="lt2019test_v8 Coverage Results" MODIFIED="1557713150076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RT_MDNet" />
+    <SUITE FILE_PATH="coverage/mdcheck$lt2019test_v6.coverage" NAME="lt2019test_v6 Coverage Results" MODIFIED="1558089495012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$lt2019finalmask2.coverage" NAME="lt2019finalmask2 Coverage Results" MODIFIED="1558530208577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$MBMD_Reimplement_v9_test.coverage" NAME="MBMD_Reimplement_v9_test Coverage Results" MODIFIED="1556508231947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheck$lt2019mask.coverage" NAME="lt2019mask Coverage Results" MODIFIED="1558095790011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$lt2019test_v3.coverage" NAME="lt2019test_v3 Coverage Results" MODIFIED="1557239487942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$atom_test__1_.coverage" NAME="atom_test (1) Coverage Results" MODIFIED="1556763472697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheck$lt2019test_v4_2.coverage" NAME="lt2019test_v4_2 Coverage Results" MODIFIED="1558087274188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$lt2019test2.coverage" NAME="lt2019test2 Coverage Results" MODIFIED="1556979524635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$lt2019test_v6.coverage" NAME="lt2019test_v6 Coverage Results" MODIFIED="1557887834199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$lt2019finalmask4.coverage" NAME="lt2019finalmask4 Coverage Results" MODIFIED="1558923123333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1557483934863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SiamMask/experiments/siammask" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$lt2019finalmask3_3.coverage" NAME="lt2019finalmask3_3 Coverage Results" MODIFIED="1560076035762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$MBMD_Reimplement_v9_test2.coverage" NAME="MBMD_Reimplement_v9_test2 Coverage Results" MODIFIED="1556893832804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$lt2019finalmask.coverage" NAME="lt2019finalmask Coverage Results" MODIFIED="1558402258495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LT_DSE$LT_DSE_Demo.coverage" NAME="LT_DSE_Demo Coverage Results" MODIFIED="1576071655748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$ltmax.coverage" NAME="ltmax Coverage Results" MODIFIED="1559565314099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$lt2019test_v4.coverage" NAME="lt2019test_v4 Coverage Results" MODIFIED="1557920274586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$atom_test.coverage" NAME="atom_test Coverage Results" MODIFIED="1557580072926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$final.coverage" NAME="final Coverage Results" MODIFIED="1559962200017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheck$lt2019test_v4_3.coverage" NAME="lt2019test_v4_3 Coverage Results" MODIFIED="1558086766037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$lt2019test_v8__1_.coverage" NAME="lt2019test_v8 (1) Coverage Results" MODIFIED="1557715382469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$lt2019test_v2_2.coverage" NAME="lt2019test_v2_2 Coverage Results" MODIFIED="1557067265253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$lt2019mask.coverage" NAME="lt2019mask Coverage Results" MODIFIED="1558273123530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mdcheckmask$lt2019finalmask4_2.coverage" NAME="lt2019finalmask4_2 Coverage Results" MODIFIED="1558923196127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$atom_tracker.coverage" NAME="atom_tracker Coverage Results" MODIFIED="1556764795167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytracking" />
+    <SUITE FILE_PATH="coverage/MBMD_vot_code$lt2019test_v7.coverage" NAME="lt2019test_v7 Coverage Results" MODIFIED="1557663674996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tracker_vot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="1261" column="58" selection-start-line="1261" selection-start-column="58" selection-end-line="1261" selection-end-column="58" />
+              <folding>
+                <element signature="e#14#30#0" expanded="true" />
+                <element signature="e#10783#22865#0" />
+                <element signature="e#31147#32735#0" />
+                <element signature="e#32793#35962#0" />
+                <element signature="e#36022#41494#0" />
+                <element signature="e#44551#48210#0" />
+                <element signature="e#49175#49900#0" />
+                <element signature="e#50004#51001#0" />
+                <element signature="e#51072#54217#0" />
+                <element signature="e#64311#73431#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LT_DSE_Demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="1263" column="58" selection-start-line="1263" selection-start-column="58" selection-end-line="1263" selection-end-column="58" />
+              <folding>
+                <element signature="e#14#30#0" expanded="true" />
+                <element signature="e#42144#43141#0" />
+                <element signature="e#43212#46360#0" />
+                <element signature="e#46428#47072#0" />
+                <element signature="e#55716#64836#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tracking_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="217" column="38" selection-start-line="217" selection-start-column="38" selection-end-line="217" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/</find>
+      <find>frame_num</find>
+      <find>win</find>
+      <find>track</find>
+      <find>wind</find>
+      <find>init_gt1</find>
+      <find>opts</find>
+      <find>update</find>
+      <find>rt_opts</find>
+      <find>img_crop_model</find>
+      <find>overlap</find>
+      <find>first</find>
+      <find>g_firstscore</find>
+      <find>R_center_redet</find>
+      <find>R_loss_thr</find>
+      <find>R_global_redet</find>
+      <find>rtmdnet_updat</find>
+      <find>rtmdnet_updata</find>
+      <find>save</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>rt_opts</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/metric_net/me_sample_generator.py" />
+        <option value="$PROJECT_DIR$/metric_net/test_accuracy.py" />
+        <option value="$PROJECT_DIR$/SiamMask/tools/demo.py" />
+        <option value="$PROJECT_DIR$/metric_net/demo.py" />
+        <option value="$PROJECT_DIR$/SiamMask/models/siammask.py" />
+        <option value="$PROJECT_DIR$/SiamMask/sm_utils/anchors.py" />
+        <option value="$PROJECT_DIR$/SiamMask/experiments/siammask/custom.py" />
+        <option value="$PROJECT_DIR$/SiamMask/tools/test.py" />
+        <option value="$PROJECT_DIR$/SiamMask/sm_utils/tracker_config.py" />
+        <option value="$PROJECT_DIR$/SiamMask/demo.py" />
+        <option value="$PROJECT_DIR$/demo_smask.py" />
+        <option value="$PROJECT_DIR$/RT-MDNet/tracker.py" />
+        <option value="$PROJECT_DIR$/lt2019test_v7.py" />
+        <option value="$PROJECT_DIR$/py-MDNet/options.py" />
+        <option value="$PROJECT_DIR$/RT_MDNet/lt2019test_v8.py" />
+        <option value="$PROJECT_DIR$/lt2019test_v8.py" />
+        <option value="$PROJECT_DIR$/pytracking/evaluation/local.py" />
+        <option value="$PROJECT_DIR$/pytracking/tracker/atom/atom.py" />
+        <option value="$PROJECT_DIR$/py-MDNet/pymdnet_model.py" />
+        <option value="$PROJECT_DIR$/py-MDNet/data_prov.py" />
+        <option value="$PROJECT_DIR$/lt2019test_v4.py" />
+        <option value="$PROJECT_DIR$/lt2019test_v4_3.py" />
+        <option value="$PROJECT_DIR$/lt2019test_v6.py" />
+        <option value="$PROJECT_DIR$/lt2019mask.py" />
+        <option value="$PROJECT_DIR$/lt2019test_v4_2.py" />
+        <option value="$PROJECT_DIR$/lt2019finalmask.py" />
+        <option value="$PROJECT_DIR$/RT_MDNet/modules/pretrain_options.py" />
+        <option value="$PROJECT_DIR$/RT_MDNet/rtmdnet_model.py" />
+        <option value="$PROJECT_DIR$/rgbt_show.py" />
+        <option value="$PROJECT_DIR$/show_groundtruth.py" />
+        <option value="$PROJECT_DIR$/rgbt.py" />
+        <option value="$PROJECT_DIR$/RT_MDNet/rtmdnet_options.py" />
+        <option value="$PROJECT_DIR$/lt2019finalmask2.py" />
+        <option value="$PROJECT_DIR$/pytracking/parameter/atom/default.py" />
+        <option value="$PROJECT_DIR$/lt2019finalmask4.py" />
+        <option value="$PROJECT_DIR$/atom_test.py" />
+        <option value="$PROJECT_DIR$/lt2019finalmask3.py" />
+        <option value="$PROJECT_DIR$/lt2019finalmask3_2.py" />
+        <option value="$PROJECT_DIR$/ltmax.py" />
+        <option value="$PROJECT_DIR$/vot.py" />
+        <option value="$PROJECT_DIR$/final.py" />
+        <option value="$PROJECT_DIR$/final2.py" />
+        <option value="$PROJECT_DIR$/RT_MDNet/img_cropper.py" />
+        <option value="$PROJECT_DIR$/analysis_RV.py" />
+        <option value="$PROJECT_DIR$/lt2019finalmask3_3.py" />
+        <option value="$PROJECT_DIR$/local_path.py" />
+        <option value="$PROJECT_DIR$/RT_MDNet/modules/data_prov.py" />
+        <option value="$PROJECT_DIR$/RT_MDNet/tracker.py" />
+        <option value="$PROJECT_DIR$/LT_DSE_Demo.py" />
+        <option value="$PROJECT_DIR$/tracker_vot.py" />
+        <option value="$PROJECT_DIR$/tracking_utils.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1985" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LT_DSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LT_DSE" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="rt&#9;FILE&#9;file:///home/daikenan/Tracking/MBMD_vot_code/mdcheckmask/RT_MDNet/rtmdnet_model.py&#10;pret&#9;null&#9;null&#10;img&#9;null&#9;null&#10;da&#9;FILE&#9;file:///home/daikenan/Tracking/MBMD_vot_code/mdcheckmask/RT_MDNet/modules/data_prov.py&#10;data_&#9;FILE&#9;file:///home/daikenan/Tracking/MBMD_vot_code/mdcheckmask/RT_MDNet/modules/data_prov.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportQtDebugging" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.LT_DSE_Demo">
+    <configuration name="LT_DSE_Demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LT_DSE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../anaconda3/envs/pytracking/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LT_DSE_Demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analysis_RV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MBMD_vot_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis_RV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lt2019finalmask3_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MBMD_vot_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lt2019finalmask3_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lt2019finalmask3_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MBMD_vot_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../anaconda3/envs/pytracking/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lt2019finalmask3_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tracker_vot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LT_DSE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../anaconda3/envs/pytracking/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tracker_vot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.lt2019finalmask3_3" />
+      <item itemvalue="Python.analysis_RV" />
+      <item itemvalue="Python.lt2019finalmask3_2" />
+      <item itemvalue="Python.tracker_vot" />
+      <item itemvalue="Python.LT_DSE_Demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.LT_DSE_Demo" />
+        <item itemvalue="Python.tracker_vot" />
+        <item itemvalue="Python.lt2019finalmask3_3" />
+        <item itemvalue="Python.lt2019finalmask3_2" />
+        <item itemvalue="Python.analysis_RV" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8da14a5-bad6-4dc1-8459-332cabca3248" name="Default" comment="" />
+      <created>1556417241804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556417241804</updated>
+      <workItem from="1575983350679" duration="37000" />
+      <workItem from="1575983395079" duration="13962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13999000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49708456" visible="true" weight="0.2968491" />
+      <window_info id="Structure" order="1" sideWeight="0.50291544" side_tool="true" weight="0.2832689" />
+      <window_info id="Favorites" order="2" sideWeight="0.50151974" side_tool="true" weight="0.25842077" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49806738" visible="true" weight="0.2831766" />
+      <window_info anchor="bottom" x="2006" y="346" width="1813" height="378" id="Debug" order="3" sideWeight="0.49806738" weight="0.3724213" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.503037" side_tool="true" weight="0.31138977" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" x="1985" y="385" width="1855" height="299" id="Event Log" order="8" sideWeight="0.5019326" side_tool="true" weight="0.31661442" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49917173" weight="0.3291536" />
+      <window_info anchor="bottom" auto_hide="true" x="1985" y="370" width="1855" height="323" id="Python Console" internal_type="SLIDING" order="12" sideWeight="0.496963" type="SLIDING" weight="0.31138977" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3291536" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32909995" />
+      <window_info anchor="right" x="0" y="0" width="414" height="892" id="Documentation" order="4" side_tool="true" weight="0.32965213" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.6970702" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49848023" visible="true" weight="0.27332965" />
+      <window_info id="Structure" order="1" sideWeight="0.50151974" side_tool="true" weight="0.25842077" />
+      <window_info id="Favorites" order="2" sideWeight="0.50151974" side_tool="true" weight="0.25842077" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49806738" weight="0.2016719" />
+      <window_info active="true" anchor="bottom" x="2006" y="346" width="1813" height="378" id="Debug" order="3" sideWeight="0.49806738" visible="true" weight="0.26645768" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.503037" side_tool="true" weight="0.31138977" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" x="1985" y="385" width="1855" height="299" id="Event Log" order="8" sideWeight="0.5019326" side_tool="true" weight="0.31661442" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49917173" weight="0.3291536" />
+      <window_info anchor="bottom" auto_hide="true" x="1985" y="370" width="1855" height="323" id="Python Console" internal_type="SLIDING" order="12" sideWeight="0.496963" type="SLIDING" weight="0.31138977" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3291536" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32909995" />
+      <window_info anchor="right" x="0" y="0" width="414" height="892" id="Documentation" order="4" side_tool="true" weight="0.32965213" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.7244616" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test.py</url>
+          <line>1243</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test.py</url>
+          <line>1431</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MBMD_Reimplement_v9_test2.py</url>
+          <line>1450</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v2.py</url>
+          <line>1275</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v3.py</url>
+          <line>1381</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v3_2.py</url>
+          <line>1372</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v5.py</url>
+          <line>1393</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v5.py</url>
+          <line>1369</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/metric_net/demo.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v6.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v6.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SiamMask/demo.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo_smask.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v7.py</url>
+          <line>1425</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RT-MDNet/tracker.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v7.py</url>
+          <line>1254</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v7.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v6.py</url>
+          <line>1524</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v8.py</url>
+          <line>1419</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v4.py</url>
+          <line>1463</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v4_2.py</url>
+          <line>1416</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019test_v4_2.py</url>
+          <line>1472</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019finalmask.py</url>
+          <line>1431</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/show_groundtruth.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019finalmask2.py</url>
+          <line>1544</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019finalmask2.py</url>
+          <line>1437</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019finalmask3.py</url>
+          <line>1528</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019finalmask3_2.py</url>
+          <line>346</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019finalmask3_2.py</url>
+          <line>333</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lt2019finalmask3_2.py</url>
+          <line>1904</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analysis_RV.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ltmax.py</url>
+          <line>263</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/final.py</url>
+          <line>200</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/final.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/final.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/final.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/final2.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RT_MDNet/modules/data_prov.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tracker_vot.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RT_MDNet/test_rt_mdnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytracking/evaluation/local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RT_MDNet/modules/pretrain_options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RT_MDNet/rtmdnet_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rgbt_show.py" />
+    <entry file="file://$PROJECT_DIR$/../.PyCharm2018.1/system/python_stubs/-1819138294/cv2/cv2/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/rgbt.py" />
+    <entry file="file://$PROJECT_DIR$/../anaconda3/envs/pytracking/lib/python3.6/site-packages/PyQt5/QtCore.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2292">
+          <caret line="8013" column="4" selection-start-line="8013" selection-start-column="4" selection-end-line="8013" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../anaconda3/envs/pytracking/lib/python3.6/site-packages/PyQt5/QtWidgets.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="6855" column="4" selection-start-line="6855" selection-start-column="4" selection-end-line="6855" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../anaconda3/envs/pytracking/lib/python3.6/site-packages/pip/_internal/utils/temp_dir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../anaconda3/envs/pytracking/lib/python3.6/imaplib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="820" column="8" selection-start-line="820" selection-start-column="8" selection-end-line="820" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RT_MDNet/Run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="64" selection-start-line="64" selection-end-line="64" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiamMask/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytracking/parameter/atom/default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="84" column="45" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show_groundtruth.py" />
+    <entry file="file://$PROJECT_DIR$/SiamMask/tools/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="314" column="64" selection-start-line="314" selection-start-column="64" selection-end-line="314" selection-end-column="64" />
+          <folding>
+            <element signature="e#214#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lt2019finalmask4.py" />
+    <entry file="file://$PROJECT_DIR$/pytracking/parameter/atom/default_vot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lt2019test_v3_2.py" />
+    <entry file="file://$PROJECT_DIR$/lt2019finalmask2.py" />
+    <entry file="file://$PROJECT_DIR$/../anaconda3/envs/pytracking/lib/python3.6/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="2299" column="12" selection-start-line="2299" selection-start-column="12" selection-end-line="2299" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharm2018.1/system/python_stubs/-1819138294/math.py" />
+    <entry file="file://$PROJECT_DIR$/../anaconda3/envs/pytracking/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atom_test.py" />
+    <entry file="file://$PROJECT_DIR$/lt2019finalmask3.py" />
+    <entry file="file://$PROJECT_DIR$/ltmax.py" />
+    <entry file="file://$PROJECT_DIR$/../anaconda3/envs/pytracking/lib/python3.6/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3906">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final2.py" />
+    <entry file="file://$PROJECT_DIR$/final.py" />
+    <entry file="file://$PROJECT_DIR$/analysis_RV.py" />
+    <entry file="file://$PROJECT_DIR$/lt2019finalmask3_2.py" />
+    <entry file="file://$PROJECT_DIR$/lt2019finalmask3_3.py" />
+    <entry file="file://$PROJECT_DIR$/../anaconda3/envs/pytracking/lib/python3.6/site-packages/tensorflow/python/framework/errors_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="518" selection-start-line="518" selection-end-line="518" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RT_MDNet/rtmdnet_options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RT_MDNet/img_cropper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mdnet_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../anaconda3/envs/pytracking/lib/python3.6/site-packages/tensorflow/python/platform/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RT_MDNet/modules/data_prov.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RT_MDNet/tracker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytracking/libs/tensorlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytracking/libs/operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" column="55" lean-forward="true" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytracking/tracker/atom/optim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytracking/libs/optimization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="371" selection-start-line="371" selection-end-line="371" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytracking/tracker/atom/atom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_DSE_Demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="1263" column="58" selection-start-line="1263" selection-start-column="58" selection-end-line="1263" selection-end-column="58" />
+          <folding>
+            <element signature="e#14#30#0" expanded="true" />
+            <element signature="e#42144#43141#0" />
+            <element signature="e#43212#46360#0" />
+            <element signature="e#46428#47072#0" />
+            <element signature="e#55716#64836#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracker_vot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="1261" column="58" selection-start-line="1261" selection-start-column="58" selection-end-line="1261" selection-end-column="58" />
+          <folding>
+            <element signature="e#14#30#0" expanded="true" />
+            <element signature="e#10783#22865#0" />
+            <element signature="e#31147#32735#0" />
+            <element signature="e#32793#35962#0" />
+            <element signature="e#36022#41494#0" />
+            <element signature="e#44551#48210#0" />
+            <element signature="e#49175#49900#0" />
+            <element signature="e#50004#51001#0" />
+            <element signature="e#51072#54217#0" />
+            <element signature="e#64311#73431#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="217" column="38" selection-start-line="217" selection-start-column="38" selection-end-line="217" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
