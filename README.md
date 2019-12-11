@@ -1,10 +1,10 @@
-# LT_DSE(The Winner Tracker of the VOT-2019 LT Challenge)
+# LT_DSE
 
 If you failed to install and run this tracker, please email me (<dkn2014@mail.dlut.edu.cn>)
 
 # Introduction
 
-This is a python-implemented visual object tracking algorithm. 
+## The Winner Tracker of the VOT-2019 LT Challenge. 
 
 # Prerequisites
 
