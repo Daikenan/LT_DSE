@@ -1,4 +1,4 @@
-# Long-term tracking by diving videos into successive short episodes
+# LT_DSE(The Winner Tracker of the VOT-2019 LT Challenge)
 
 If you failed to install and run this tracker, please email me (<dkn2014@mail.dlut.edu.cn>)
 
