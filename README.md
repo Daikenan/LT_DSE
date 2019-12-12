@@ -14,13 +14,21 @@ If you failed to install and run this tracker, please email me (<dkn2014@mail.dl
 * gcc 5.4
 * g++ 5.4
 # Installation
-To install all the dependencies, you can run the script `install.sh`. 
+1. Clone the GIT repository:
+```
+ $ git clone https://github.com/Daikenan/LT_DSE.git
+```
+2. Clone the submodules.  
+   In the repository directory, run the commands:
+```
+   $ git submodule init  
+   $ git submodule update
+```
+3.Run the install script. 
 Usage example:
-
-``
+```
 bash install.sh ~/anaconda3 votenvs
-``
-
+```
 The first parameter `~/anaconda3` indicates the path of anaconda and the second indicates the virtual environment used for this project. 
 
 ## Modify the Paths
