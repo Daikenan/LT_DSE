@@ -50,8 +50,3 @@ For example, in my computer, I add  `export PATH=/home/daikenan/anaconda3/envs/v
 The interface for integrating the tracker into the vot evaluation tool kit is implemented in the module `tracker_vot.py`. The script `tracker_LT_DSE.m` is needed to be copied to vot-tookit. 
 
 Since the vot-toolkit may be not compatible with pytorch-0.4.1, I always change the line  `command = sprintf('%s %s -c "%s"', python_executable, argument_string, python_script);` to `command = sprintf('env -i %s %s -c "%s"', python_executable, argument_string, python_script);` in `generate_python_command.m`. 
-
-
-# CPU manner
-
-If you want to run this code on CPU, you need just set `os.environ["CUDA_VISIBLE_DEVICES"]=""` in the begin of `tracker_vot.py`. 
