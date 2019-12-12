@@ -41,9 +41,6 @@ source activate votenvs
 python LT_DSE_Demo.py
 ```
 
-## Modify the Paths
-* `local_path.py`
-
 # Integrate into VOT-2019LT
 
 ## VOT-toolkit
