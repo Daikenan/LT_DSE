@@ -11,13 +11,15 @@ If you failed to install and run this tracker, please email me (<dkn2014@mail.dl
 * python 3.6
 * ubuntu 16.04
 * cuda-9.0
-
+* gcc 5.4
+* g++ 5.4
 ## Install Requirements & Download models
 To install all the dependencies, you can run the script `install.sh`. 
 Usage example:
 ``
 bash install.sh ~/anaconda3 votenvs
 ``
+
 The first parameter `~/anaconda3` indicates the path of anaconda and the second indicates the virtual environment used for this project. 
 
 ## Modify the Paths
