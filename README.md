@@ -24,7 +24,7 @@ If you failed to install and run this tracker, please email me (<dkn2014@mail.dl
    $ git submodule init  
    $ git submodule update
 ```
-3.Run the install script. 
+3. Run the install script. 
 Usage example:
 ```
 bash install.sh ~/anaconda3 votenvs
