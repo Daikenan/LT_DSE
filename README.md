@@ -13,9 +13,10 @@ If you failed to install and run this tracker, please email me (<dkn2014@mail.dl
 * cuda-9.0
 * gcc 5.4
 * g++ 5.4
-## Install Requirements & Download models
+# Installation
 To install all the dependencies, you can run the script `install.sh`. 
 Usage example:
+
 ``
 bash install.sh ~/anaconda3 votenvs
 ``
