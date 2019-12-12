@@ -8,9 +8,8 @@ If you failed to install and run this tracker, please email me (<dkn2014@mail.dl
 
 # Prerequisites
 
-* python 3.6
 * ubuntu 16.04
-* cuda-9.0
+* anaconda3
 * gcc 5.4
 * g++ 5.4
 # Installation
