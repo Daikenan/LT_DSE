@@ -30,6 +30,7 @@ Usage example:
 bash install.sh ~/anaconda3 votenvs
 ```
 The first parameter `~/anaconda3` indicates the path of anaconda and the second indicates the virtual environment used for this project. 
+
 4. modify ``local_path.py``
 5. Run the demo script to test the tracker:
 ```
