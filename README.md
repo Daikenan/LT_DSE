@@ -2,7 +2,6 @@
 
 If you failed to install and run this tracker, please email me (<dkn2014@mail.dlut.edu.cn>)
 
-# Introduction
 
 ### :star2:The Winner Tracker of the VOT-2019 LT Challenge.:star2: 
 
