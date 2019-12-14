@@ -56,8 +56,7 @@ The short-term local tracker contains two components. One is for target localiza
 For the verifier, we adopts RT-MDNet network[3] which uses VGGM as the backbone and is pre-trained on ILSVRC VID dataset. The input of it is the local search region as well and in each frame, we crop the feature of the search region outputted by the third convolutional layer via its improved ROIAlign pooling method to get the feature of the tracking result. The classification score is finally obtained by sending the tracking result's feature to three fully connected layers. 
 
 The architecture of the region-proposal network is the same as that used in [4]. It uses MobileNet architecture as the feature extractor and takes the local search region as input. The RPN network consists of three convolutional layers and outputs the bounding boxes of candidate proposals. The network is trained using LaSOT dataset[5] and ILSVRC image detection dataset. 
-
-
+```
 [1] @inproceedings{danelljan2018atom,
   title={ATOM: Accurate Tracking by Overlap Maximization},
   author={Danelljan, Martin and Bhat, Goutam and Khan, Fahad Shahbaz and Felsberg, Michael},
@@ -96,3 +95,4 @@ The architecture of the region-proposal network is the same as that used in [4].
   booktitle={CVPR},
   year={2019}
 }
+```
