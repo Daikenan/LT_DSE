@@ -22,24 +22,20 @@ If you failed to install and run this tracker, please email me (<dkn2014@mail.dl
    $ git submodule update
 ```
 3. Run the install script. 
-create environment:
 ```
 conda env create -f LTDSE.yaml
-```
-compile mmdet:
-```
 bash compile.sh
 ```
-download models
+4.Download models
 ```
 bash download_models.sh
 ```
 
-4. modify ``local_path.py``:
+5. modify ``local_path.py``:
 
 ``toolkit_path`` is not needed if you don't test on VOT toolkit.
 
-5. Run the demo script to test the tracker:
+6. Run the demo script to test the tracker:
 ```
 source activate LTDSE
 python LT_DSE_Demo.py
