@@ -1,7 +1,7 @@
 # LT_DSE
 
 ### :star2:The Winner Tracker of the VOT-2019 LT Challenge.:star2: 
-### :star2:News!The installation script has been updated for easier testing.:star2: 
+### News!The installation script has been updated for easier testing.
 
 If you failed to install and run this tracker, please email me (<dkn2014@mail.dlut.edu.cn>)
 
