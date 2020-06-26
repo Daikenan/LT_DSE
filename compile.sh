@@ -33,4 +33,9 @@ cd ../../../
 pip install .
 cd ../
 
+cd ltr/external/PreciseRoIPooling/pytorch/prroi_pool
+if [ -d "_prroi_pooling" ]; then
+    rm -r _prroi_pooling
+fi
+bash travis.sh
 
