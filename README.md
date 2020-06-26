@@ -24,6 +24,7 @@ If you failed to install and run this tracker, please email me (<dkn2014@mail.dl
 3. Run the install script. 
 ```
 conda env create -f LTDSE.yaml
+source activate LTDSE
 bash compile.sh
 ```
 4.Download models
