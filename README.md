@@ -22,11 +22,18 @@ If you failed to install and run this tracker, please email me (<dkn2014@mail.dl
    $ git submodule update
 ```
 3. Run the install script. 
-Usage example:
+create environment:
 ```
-bash install.sh ~/anaconda3 votenvs
+conda env create -f LTDSE.yaml
 ```
-The first parameter `~/anaconda3` indicates the path of anaconda and the second indicates the virtual environment used for this project. 
+compile mmdet:
+```
+bash compile.sh
+```
+download models
+```
+bash download_models.sh
+```
 
 4. modify ``local_path.py``:
 
@@ -34,7 +41,7 @@ The first parameter `~/anaconda3` indicates the path of anaconda and the second 
 
 5. Run the demo script to test the tracker:
 ```
-source activate votenvs
+source activate LTDSE
 python LT_DSE_Demo.py
 ```
 
