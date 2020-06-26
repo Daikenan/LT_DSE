@@ -33,6 +33,14 @@ cd ../../../
 pip install .
 cd ../
 
+cd SiamMask/sm_utils/pyvotkit
+python setup.py build_ext --inplace
+cd ../../../
+
+cd SiamMask/sm_utils/pysot/utils/
+python setup.py build_ext --inplace
+cd ../../../../
+
 cd ltr/external/PreciseRoIPooling/pytorch/prroi_pool
 if [ -d "_prroi_pooling" ]; then
     rm -r _prroi_pooling

@@ -10,13 +10,6 @@ echo "****************** Downloading other networks ******************"
 bash pytracking/utils/gdrive_download 1sZ_j5sre7356nSGSdY7djX7ygpxPyzPN model.zip
 unzip model.zip
 
-cd SiamMask/sm_utils/pyvotkit
-python setup.py build_ext --inplace
-cd ../../../
-
-cd SiamMask/sm_utils/pysot/utils/
-python setup.py build_ext --inplace
-cd ../../../../
 
 cd SiamMask/experiments/siammask
 wget http://www.robots.ox.ac.uk/~qwang/SiamMask_VOT_LD.pth
