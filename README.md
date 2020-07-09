@@ -40,7 +40,7 @@ You can also download it manually.
 
 [siammask model](http://www.robots.ox.ac.uk/~qwang/SiamMask_VOT_LD.pth)
 
-[other models](https://docs.google.com/uc?export=download&id=1sZ_j5sre7356nSGSdY7djX7ygpxPyzPN model.zip)
+[other models](https://docs.google.com/uc?export=download&id=1sZ_j5sre7356nSGSdY7djX7ygpxPyzPN)
 
 5. modify ``local_path.py``:
 
