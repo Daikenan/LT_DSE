@@ -32,7 +32,31 @@ bash compile.sh
 ```
 bash download_models.sh
 ```
+You can also download it manually.
 
+[[Atom model](https://docs.google.com/uc?export=download&id=1VNyr-Ds0khjM0zaq6lU-xfY74-iWxBvU)]
+[[Det model](https://s3.ap-northeast-2.amazonaws.com/open-mmlab/mmdetection/models/faster_rcnn_r50_fpn_1x_20181010-3d1b3351.pth)]
+[[Siammask model](http://www.robots.ox.ac.uk/~qwang/SiamMask_VOT_LD.pth)]
+[[Other models](https://docs.google.com/uc?export=download&id=1sZ_j5sre7356nSGSdY7djX7ygpxPyzPN)]
+```
+$ LT_DSE
+|—— pytracking
+  |—— networks
+    |—— atom_default.pth
+|—— mmdetection
+  |—— faster_rcnn_r50_fpn_1x_20181010-3d1b3351.pth
+|—— SiamMask
+  |—— experiments
+    |—— siammask
+      |—— SiamMask_VOT_LD.pth
+|—— model
+  |—— R_model
+    |—— xxx.ckpt/checkpoint
+  |—— mobilenet_v1_1.0_224_2017_06_14
+    |—— xxx.ckpt
+  |—— ssd_mobilenet_tracking.config
+  |—— ssd_mobilenet_video.config
+```
 5. modify ``local_path.py``:
 
 ``toolkit_path`` is not needed if you don't test on VOT toolkit.
