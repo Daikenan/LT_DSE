@@ -33,7 +33,8 @@ bash compile.sh
 bash download_models.sh
 ```
 You can also download it manually.
-[atom model](https://docs.google.com/uc?export=download&id=1VNyr-Ds0khjM0zaq6lU-xfY74-iWxBvU)
+
+[[atom model](https://docs.google.com/uc?export=download&id=1VNyr-Ds0khjM0zaq6lU-xfY74-iWxBvU)]
 ```
 |—— pytracking
   |—— networks
