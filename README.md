@@ -33,7 +33,6 @@ bash compile.sh
 bash download_models.sh
 ```
 You can also download it manually.
-
 [atom model](https://docs.google.com/uc?export=download&id=1VNyr-Ds0khjM0zaq6lU-xfY74-iWxBvU)
 ```
 |—— pytracking
@@ -62,7 +61,6 @@ You can also download it manually.
   |—— ssd_mobilenet_tracking.config
   |—— ssd_mobilenet_video.config
 ```
-
 5. modify ``local_path.py``:
 
 ``toolkit_path`` is not needed if you don't test on VOT toolkit.
