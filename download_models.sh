@@ -2,7 +2,7 @@
 
 echo ""
 echo "****************** ATOM Network ******************"
-bash pytracking/utils/gdrive_download 1ZTdQbZ1tyN27UIwUnUrjHChQb5ug2sxr pytracking/networks/atom_default.pth
+bash pytracking/utils/gdrive_download 1VNyr-Ds0khjM0zaq6lU-xfY74-iWxBvU pytracking/networks/atom_default.pth
 
 echo ""
 echo ""
