@@ -34,25 +34,26 @@ bash download_models.sh
 ```
 You can also download it manually.
 
+$ LT_DSE
 [[atom model](https://docs.google.com/uc?export=download&id=1VNyr-Ds0khjM0zaq6lU-xfY74-iWxBvU)]
 ```
 |—— pytracking
   |—— networks
     |—— atom_default.pth
 ```
-[det model](https://s3.ap-northeast-2.amazonaws.com/open-mmlab/mmdetection/models/faster_rcnn_r50_fpn_1x_20181010-3d1b3351.pth)
+[[det model](https://s3.ap-northeast-2.amazonaws.com/open-mmlab/mmdetection/models/faster_rcnn_r50_fpn_1x_20181010-3d1b3351.pth)]
 ```
 |—— mmdetection
   |—— faster_rcnn_r50_fpn_1x_20181010-3d1b3351.pth
 ```
-[siammask model](http://www.robots.ox.ac.uk/~qwang/SiamMask_VOT_LD.pth)
+[[siammask model](http://www.robots.ox.ac.uk/~qwang/SiamMask_VOT_LD.pth)]
 ```
 |—— SiamMask
   |—— experiments
     |—— siammask
       |—— SiamMask_VOT_LD.pth
 ```
-[other models](https://docs.google.com/uc?export=download&id=1sZ_j5sre7356nSGSdY7djX7ygpxPyzPN)
+[[other models](https://docs.google.com/uc?export=download&id=1sZ_j5sre7356nSGSdY7djX7ygpxPyzPN)]
 ```
 |—— model
   |—— R_model
