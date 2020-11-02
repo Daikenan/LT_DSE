@@ -11,6 +11,7 @@ If you failed to install and run this tracker, please email me (<dkn2014@mail.dl
 * anaconda3
 * gcc 5.4
 * g++ 5.4
+* cuda 9.0
 # Installation
 1. Clone the GIT repository:
 ```
